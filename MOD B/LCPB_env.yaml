@@ -1,0 +1,13 @@
+name: LCPB_2526
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - tqdm
+  - seaborn
+  - pytorch
